@@ -1,0 +1,13 @@
+{
+  "item.lxdf.water_bottle": "Water Bottle",
+  "item.lxdf.red_wine": "Red Wine",
+  "item.lxdf.apple_juice": "Apple Juice",
+  "item.lxdf.orange_juice": "Orange Juice",
+  "item.lxdf.grape_juice": "Grape Juice",
+
+  "item.lxdf.grapes": "Grapes",
+  "item.lxdf.strawberry": "Strawberry",
+
+  "itemGroup.lxdf_drinks_tab": "Drinks",
+  "itemGroup.lxdf_food_tab": "Food"
+}

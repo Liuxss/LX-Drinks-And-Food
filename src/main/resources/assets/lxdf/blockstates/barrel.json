@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "state=base": { "model": "lxdf:block/barrel" },
+
+    "state=corner_up_left": { "model": "lxdf:block/barrel_corner_up_left" },
+    "state=corner_up_right": { "model": "lxdf:block/barrel_corner_up_right" },
+    "state=corner_down_left": { "model": "lxdf:block/barrel_corner_down_left" },
+    "state=corner_down_right": { "model": "lxdf:block/barrel_corner_down_right" },
+
+    "state=side_up": { "model": "lxdf:block/barrel_side_up" },
+    "state=side_down": { "model": "lxdf:block/barrel_side_down" },
+    "state=side_left": { "model": "lxdf:block/barrel_side_left" },
+    "state=side_right": { "model": "lxdf:block/barrel_side_right" },
+
+    "state=center": { "model": "lxdf:block/barrel_center" },
+    "state=inside": { "model": "lxdf:block/barrel_inside" }
+  }
+}

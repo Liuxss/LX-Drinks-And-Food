@@ -1,0 +1,13 @@
+{
+  "item.lxdf.water_bottle": "Botella de Agua",
+  "item.lxdf.red_wine": "Vino Tinto",
+  "item.lxdf.apple_juice": "Jugo de Manzana",
+  "item.lxdf.orange_juice": "Jugo de Naranja",
+  "item.lxdf.grape_juice": "Jugo de Uva",
+
+  "item.lxdf.grapes": "Uvas",
+  "item.lxdf.strawberry": "Fresa",
+
+  "itemGroup.lxdf_drinks_tab": "Bebidas",
+  "itemGroup.lxdf_food_tab": "Comida"
+}

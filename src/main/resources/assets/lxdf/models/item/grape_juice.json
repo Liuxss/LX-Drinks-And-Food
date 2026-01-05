@@ -1,0 +1,6 @@
+{
+	"parent": "lxdf:item/bottle",
+	"textures": {
+		"liquid": "lxdf:item/grape_juice"
+	}
+}

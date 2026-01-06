@@ -20,4 +20,4 @@
 
 ---
 
-Developed with ❤️ by **Liuxss**
+Developed by **Liuxss**

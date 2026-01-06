@@ -14,9 +14,9 @@
 * **Essential Utensils:** Includes functional empty glass bottles and water-filled variants for crafting.
 
 ## 🚀 Roadmap
-* [ ] **Core Refactoring:** Implementing a more organized and scalable project file structure.
-* [ ] **Vanilla Parity:** Migrating to an architecture based on Mojang's official class standards (Deferred Registers).
-* [ ] **Advanced Mechanics:** Unique status effects for special beverages.
+* ☑️ **Core Refactoring:** Implementing a more organized and scalable project file structure.
+* ☑️ **Vanilla Parity:** Migrating to an architecture based on Mojang's official class standards (Deferred Registers).
+* ☑️ **Advanced Mechanics:** Unique status effects for special beverages.
 
 ---
 
